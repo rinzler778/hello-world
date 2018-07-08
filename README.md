@@ -7,3 +7,4 @@ Just another repository again
 
 //feature 2
 <first few lines of code for feature 2>
+<some more lines of code>
